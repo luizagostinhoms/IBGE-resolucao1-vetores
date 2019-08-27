@@ -2,8 +2,8 @@
 
 //PRIMEIRA SOLUÇÃO, USANDO VETOR
 
-int main()
-{
+int main() {
+	
     int num_cidade;
     printf("==== IBGE ==== \n \n");
     printf("Digite a quantidade de cidades a serem cadastradas: ");
@@ -102,12 +102,6 @@ int main()
      printf("A méida de acidentes de trânsito em cidades com menos de 2000 veículos é: %.1f", media_acidente_transito);
 
 
-
     return 0;
 }
-
-
-
-
-
 
